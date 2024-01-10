@@ -1,1 +1,0 @@
-Followed the Boot.dev tutorial online
